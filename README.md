@@ -7,5 +7,5 @@ Steps: 1. Imported the dataset into MySQL server, so we could have a easier way 
        3. Preset the query clause in advance.
        4. Write if-else statement ..., Python functions still under construction
        5. Connect wiht Flask, still pending   
-       6.   
+       6.         
        7.  
