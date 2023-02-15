@@ -9,4 +9,4 @@ Steps: 1. Imported the dataset into MySQL server, so we could have a easier way 
        5. Connect wiht Flask, still pending   
        6.             
        7.  
-       8.       
+       8.          
